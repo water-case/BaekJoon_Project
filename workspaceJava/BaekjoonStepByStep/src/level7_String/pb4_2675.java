@@ -18,7 +18,7 @@ public class pb4_2675 {
 				break;
 			}
 
-			// °ø¹é±âÁØ ¹®ÀÚ¿­ ³ª´®
+			// ê³µë°±ìœ¼ë¡œ ë¬¸ìì—´ í† í°í™”
 			StringTokenizer token = new StringTokenizer(n, " ");
 			int r = 0;
 			String s = "";
